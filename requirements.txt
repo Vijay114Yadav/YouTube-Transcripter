@@ -8,4 +8,4 @@ numpy
 tensorflow
 tf-keras
 pipeline
-from transformers
+transformers
