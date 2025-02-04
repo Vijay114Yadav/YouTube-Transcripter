@@ -5,7 +5,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
-
+from transformers import pipeline
 from textblob import TextBlob
 import re
 import nltk
