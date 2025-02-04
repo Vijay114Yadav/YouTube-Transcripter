@@ -7,4 +7,5 @@ textblob
 numpy
 tensorflow
 tf-keras
+import pipeline
 from transformers import pipeline
